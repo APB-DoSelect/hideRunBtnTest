@@ -3,7 +3,7 @@
   display: none ;
 }
 
-#ds-solution-submit i,span{
+#ds-solution-submit * {
   display:none;
 }
 
