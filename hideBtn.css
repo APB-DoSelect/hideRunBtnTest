@@ -3,6 +3,6 @@
   display: none ;
 }
 
-.powered-by{
-  display:none
+#ds-solution-submit span{
+  content : "Run & Submit";
 }
