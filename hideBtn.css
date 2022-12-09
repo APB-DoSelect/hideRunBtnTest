@@ -4,5 +4,9 @@
 }
 
 #ds-solution-submit span{
+  display:none;
+}
+
+#ds-solution-submit:after{
   content : "Run & Submit";
 }
